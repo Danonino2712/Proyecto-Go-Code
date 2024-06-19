@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+*{
+    color: #f0f8ff;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+body{
+    background-color: #000000;
+}
+
+.algo {
+    font-size: 5rem;
+}
